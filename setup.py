@@ -22,7 +22,7 @@ def get_long_description():
 
 long_description = get_long_description()
 
-version = '0.0.4.shoxie007'
+version = '0.0.5'
 setup(
     name="tee",
     version=version,
